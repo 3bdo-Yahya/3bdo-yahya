@@ -1,6 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=30F74B&center=true&vCenter=true&width=1200&height=600&lines=Hello+World!;My+name+is+Abdelrahman.;Computer+Science+%26+AI+major+at+South+Valley+National+University.;I'm+a+passionate+Front-End+developer.;I'm+a+problem+solver+%26+competitive+programmer.;ECPC+finalist.;On+a+journey+of+continuous+improvement...;Nice+to+meet+you.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=30F74B&center=true&vCenter=true&width=1200&height=300&lines=Hello+World!;My+name+is+Abdelrahman.;Computer+Science+%26+AI+major+at+South+Valley+National+University.;I'm+a+passionate+Front-End+developer.;I'm+a+problem+solver+%26+competitive+programmer.;ECPC+finalist.;On+a+journey+of+continuous+improvement...;Nice+to+meet+you.)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=3bdo-yahya&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
