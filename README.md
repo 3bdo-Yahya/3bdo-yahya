@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=180&section=header&text=Abdelrahman%20Yahia%&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Software%20Engineer&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hello+World!+I'm+Abdelrahman.;Performance-Oriented+Full-Stack+Developer;React+%2B+ASP.NET+Core;ECPC+Finalist+%26+Competitive+Programmer;Problem+Solving+Mentor+(ICPCxSVNU);Optimizing+Logic%2C+One+Line+at+a+Time.;Happy+Coding!+(0_0)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hello+World!+I'm+Abdelrahman.;Software+Engineer;Performance-Oriented+Full-Stack+Developer;ECPC+Finalist+%26+Competitive+Programmer;Problem+Solving+Mentor+(ICPCxSVNU);Optimizing+Logic%2C+One+Line+at+a+Time.;Happy+Coding!+(0_0)" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -25,9 +25,9 @@
 
 ```C#
 
-var Abdelrahman = new Developer {
+var Abdelrahman = new Dev {
     Name      = "Abdelahman Yahia",
-    Role      = "Full-Stack Developer (ASP.NET Core + React)",
+    Role      = "Full-Stack Developer",
     Focus     = new[] { "ASP.NET Core", "REST APIs", "EF Core", "SQL Server" }",
     Mindset   = "1% Everyday!"
 };
@@ -62,7 +62,7 @@ var Abdelrahman = new Developer {
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=3bdo-Yahya&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=3bdo-Yahya&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=57155&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Most+Used+Languages&layout=compact&cache_seconds=0&langs_count=8" />
 </p>
 
 
